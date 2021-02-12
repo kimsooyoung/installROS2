@@ -3,6 +3,11 @@
 # Reference sites
 # https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/
 
+sudo apt-get update
+sudo apt-get upgrade
+
+sudo apt-get install curl
+
 sudo locale-gen en_US en_US.UTF-8
 sudo update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8
 export LANG=en_US.UTF-8
