@@ -1,4 +1,4 @@
-# 젯슨 나노에 ROS2(eloauent)를 설치하고 구동해보기
+# 젯슨 나노에 ROS2(eloquent)를 설치하고 구동해보기
 
 ## Tested Environment
 * Jetson Nano 4GB
