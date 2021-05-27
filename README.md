@@ -15,7 +15,7 @@ $ chmod +x install-ros2.sh
 
 $ ./install-ros.sh
 (or)
-$ sh install-ros.sh
+$ sh install-ros2.sh
 ```
 
 설치 중간에 정말 설치할 것인지 여부를 물어볼 수 있습니다. y를 입력해줍니다.
